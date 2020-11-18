@@ -1,4 +1,4 @@
-# elearningappforkids
+# Kids Learning App
 
 E-Learning App for Kids
 
